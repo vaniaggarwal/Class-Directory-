@@ -1,4 +1,6 @@
 # Class-Directory-
+
+Currently in Process of Adding all the Files into this Repository 
 A collection of labs and projects from my classes at Santa Clara University 
 
 COEN 10: Intro To Programming 
